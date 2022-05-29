@@ -1,6 +1,4 @@
-package packages.examples
-
-import packages.examples.RightTriangle
+package introductionToObjects.packages.examples
 
 fun main() {
     val rt = RightTriangle(3.0, 4.0)

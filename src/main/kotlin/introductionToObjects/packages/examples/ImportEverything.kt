@@ -1,4 +1,4 @@
-package packages.examples
+package introductionToObjects.packages.examples
 
 import kotlin.math.*
 

@@ -1,4 +1,4 @@
-package packages.examples
+package introductionToObjects.packages.examples
 
 class IsoscelesRightTriangle(
     val side: Double

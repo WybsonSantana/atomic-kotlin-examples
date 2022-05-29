@@ -1,6 +1,6 @@
-package packages.exercises
+package introductionToObjects.packages.exercises
 
-import packages.examples.EquilateralTriangle
+import introductionToObjects.packages.examples.EquilateralTriangle
 
 fun main() {
     val triangle = EquilateralTriangle(1.0)

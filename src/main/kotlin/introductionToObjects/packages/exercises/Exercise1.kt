@@ -1,4 +1,4 @@
-package packages.exercises
+package introductionToObjects.packages.exercises
 
 import kotlin.math.E
 import kotlin.math.PI

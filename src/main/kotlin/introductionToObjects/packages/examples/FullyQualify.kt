@@ -1,4 +1,4 @@
-package packages.examples
+package introductionToObjects.packages.examples
 
 fun main() {
     println(kotlin.math.PI)
